@@ -1,0 +1,11 @@
+# Site navigation links
+
+- title: Portofolio
+  url: /portofolio/
+  excerpt: "Things I’ve analyzed, designed, or developed."
+
+- title: GitHub
+  url: https://github.com/randyansari
+
+- title: Medium
+  url: https://medium.com/@randyansari
