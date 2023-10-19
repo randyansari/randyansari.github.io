@@ -1,13 +1,13 @@
 # Site navigation links
 
-title: Portofolio
-url: /portofolio/
+- title: Portofolio
+  url: /portofolio/
 
-title: GitHub
-url: https://github.com/randyansari
+- title: GitHub
+  url: https://github.com/randyansari
 
-title: Medium
-url: https://medium.com/@randyansari
+- title: Medium
+  url: https://medium.com/@randyansari
 
-title: Tableau
-url: https://public.tableau.com/app/profile/randyansari
+- title: Tableau
+  url: https://public.tableau.com/app/profile/randyansari
