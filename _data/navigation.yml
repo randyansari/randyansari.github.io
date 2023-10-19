@@ -2,12 +2,16 @@
 
 - title: Portofolio
   url: /portofolio/
+  excerpt: "Things I’ve analyzed, designed, or developed."
 
 - title: GitHub
   url: https://github.com/randyansari
+  excerpt: "Documentation of my projects that I've built"
 
 - title: Medium
   url: https://medium.com/@randyansari
+  excerpt: "Things I've written"
 
 - title: Tableau
   url: https://public.tableau.com/app/profile/randyansari
+  excerpt: "Things I've designed"
